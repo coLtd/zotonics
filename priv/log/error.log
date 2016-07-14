@@ -1,0 +1,27 @@
+2016-07-10 12:09:46.135 [error] <0.126.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 12:09:48.024 [error] <0.281.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 12:47:49.212 [error] <0.127.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 12:47:51.062 [error] <0.272.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 12:49:12.486 [error] <0.282.0> {mochiweb_socket_server,307,{acceptor_error,killed}}
+2016-07-10 12:57:07.506 [error] <0.127.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 12:57:09.446 [error] <0.272.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 13:41:44.001 [error] <0.125.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 13:41:45.799 [error] <0.270.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 13:46:33.875 [error] <0.125.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 13:46:35.399 [error] <0.270.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 13:52:29.593 [error] <0.125.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 13:52:33.162 [error] <0.343.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 13:56:37.052 [error] <0.127.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 13:56:38.309 [error] <0.339.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 14:20:11.858 [error] <0.127.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 14:20:17.032 [error] <0.342.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 14:33:06.039 [error] <0.125.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 14:33:07.539 [error] <0.270.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 14:40:06.853 [error] <0.125.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 14:40:10.410 [error] <0.336.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-10 18:21:13.452 [error] <0.127.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-10 18:21:16.390 [error] <0.341.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-11 18:59:48.105 [error] <0.125.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-11 19:00:06.184 [error] <0.367.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
+2016-07-12 20:30:16.116 [error] <0.122.0> Unable to read boot script (start_sasl.script): {error,enoent}
+2016-07-12 20:30:33.087 [error] <0.376.0>@z_filewatcher_sup:which_watcher:58 FILEWATCHER: please install fswatch or inotify-tools to automatically load changed files
